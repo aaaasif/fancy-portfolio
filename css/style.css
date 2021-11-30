@@ -134,7 +134,10 @@ header .navbar a:hover{
     height:100%;
     width:100%;
 }
-
+.web-title{
+    text-align: center;
+    margin: 3px;
+}
 .home .content{
     text-align: center;
     position: relative;
